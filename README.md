@@ -1,2 +1,1 @@
-# AsanKar.ir
-Legal AI project (install-ready)
+# AsanKar.ir - Legal Smart Assistant
